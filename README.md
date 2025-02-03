@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Engineer
 ------------------------
 
-I am a frontend engineer with over 23 years of experience building high-performance, scalable web solutions. My expertise spans a broad range of technologies and frameworks, enabling me to solve complex technical challenges and craft seamless, user-focused digital experiences. From performance optimization to developing AI-powered onboarding tools, I’m passionate about pushing the boundaries of what’s possible on the web.
-
-🌍  I'm based in Austin, TX
+I am a frontend engineer with over 24 years of experience building high-performance, scalable web solutions. My expertise spans a broad range of technologies and frameworks, enabling me to solve complex technical challenges and craft seamless, user-focused digital experiences. From performance optimization to developing AI-powered onboarding tools, I’m passionate about pushing the boundaries of what’s possible on the web.
 
 <a href="https://www.github.com/devbucket" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/devbucket?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
